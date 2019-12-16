@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://slick-nick:slicknick@cluster0-krfgq.mongodb.net/test?retryWrites=true&w=majority"
+}
